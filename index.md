@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/HonghaoLYU/tmp_repo/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [Project](https://fsie-robotics.com/english/projects) [Publication](https://fsie-robotics.com/english/research) News
+## [Project](https://fsie-robotics.com/english/projects)         [Publication](https://fsie-robotics.com/english/research)         News
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
