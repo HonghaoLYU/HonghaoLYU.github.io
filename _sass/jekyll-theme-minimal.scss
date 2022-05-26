@@ -216,15 +216,6 @@ footer {
     width:auto;
     margin:0;
   }
-  
-  div.justify { 
-	　　text-align: justify; width:200px; font-size:15px; color:red; 
-	　　border:1px solid blue; height:18px;
-  }
-  div.justify > span { 
-　　display: inline-block /* Opera */; 
-　　padding-left: 100%; 
-  }
 
   header, section, footer {
     float:none;
