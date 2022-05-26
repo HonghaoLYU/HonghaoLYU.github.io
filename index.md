@@ -1,6 +1,6 @@
 ## Welcome to My Pages
 
-## [Intro](https://fsie-robotics.com/tmp_repo/) &emsp; [Projects](https://fsie-robotics.com/tmp_repo/subpage/projects) &emsp; [Publications](https://fsie-robotics.com/english/research) &emsp; [Posts](https://fsie-robotics.com/english/posts) &emsp; [News](https://fsie-robotics.com/english/research)
+## [Intro](https://fsie-robotics.com/tmp_repo/)&emsp; [Projects](https://fsie-robotics.com/tmp_repo/subpage/projects)&emsp; [Publications](https://fsie-robotics.com/tmp_repo/subpage/research) &emsp; [Posts](https://fsie-robotics.com/tmp_repo/subpage/posts)&emsp; [News](https://fsie-robotics.com/tmp_repo/subpage/research)
 
 ### Bio
 I am currently pursuing the Ph.D. degree in mechatronic engineering with the School of Mechanical Engineering, Zhejiang University, Hangzhou, China, 
@@ -11,8 +11,8 @@ and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corpora
 My research interests include dual-arm robotic teleoperation, human–robot intelligent interface, and safe interaction.
 
 ### Representative projects
-GuLiM: Human-robot motion transfer (https://fsie-robotics.com/GuLiM-motion-transfer/)
-Teleoperated Robot in isolation ward for COVID-19 (https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/)
+[GuLiM: Human-robot motion transfer](https://fsie-robotics.com/GuLiM-motion-transfer/)
+[Teleoperated Robot in isolation ward for COVID-19](https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/)
 
 
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/tmp_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
