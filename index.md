@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
+
+## [Project](https://fsie-robotics.com/english/projects) &emsp; &emsp; [Publication](https://fsie-robotics.com/english/research) &emsp; &emsp; [POST](https://fsie-robotics.com/english/research) &emsp;&emsp; [News]
+
+### Bio
+I am currently pursuing the Ph.D. degree in mechatronic engineering with the School of Mechanical Engineering, Zhejiang University, Hangzhou, China, 
+and the joint Ph.D. degree with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, 
+under the financial support from China Scholarship Council.
+I developed dual-arm robotic teleoperation systems based on the motion capture techniques. And I am also working on mobile robotics, multi-robot coordination, 
+and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corporate Research Sweden. I received the B.Eng. degree in mechanical engineering from 
+the China University of Mining and Technology, Xuzhou, China, in 2018.
+My research interests include dual-arm robotic teleoperation, human–robot intelligent interface, and safe interaction.
+
+### Representative projects
+
+GuLiM: Human-robot motion transfer
+
 
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/tmp_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## [Project](https://fsie-robotics.com/english/projects)         [Publication](https://fsie-robotics.com/english/research)         News
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
