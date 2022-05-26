@@ -1,19 +1,18 @@
 ## Welcome to My Pages
 
-## [Project](https://fsie-robotics.com/english/projects) &emsp; &emsp; [Publication](https://fsie-robotics.com/english/research) &emsp; &emsp; [POST](https://fsie-robotics.com/english/research) &emsp;&emsp; [News]
+## [Project](https://fsie-robotics.com/english/projects) &emsp; [Publications](https://fsie-robotics.com/english/research) &emsp; [Posts](https://fsie-robotics.com/english/research) &emsp; [News](https://fsie-robotics.com/english/research)
 
 ### Bio
 I am currently pursuing the Ph.D. degree in mechatronic engineering with the School of Mechanical Engineering, Zhejiang University, Hangzhou, China, 
-and the joint Ph.D. degree with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, 
+and also a joint Ph.D. with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, 
 under the financial support from China Scholarship Council.
 I developed dual-arm robotic teleoperation systems based on the motion capture techniques. And I am also working on mobile robotics, multi-robot coordination, 
-and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corporate Research Sweden. I received the B.Eng. degree in mechanical engineering from 
-the China University of Mining and Technology, Xuzhou, China, in 2018.
+and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corporate Research Sweden.
 My research interests include dual-arm robotic teleoperation, human–robot intelligent interface, and safe interaction.
 
 ### Representative projects
-
-GuLiM: Human-robot motion transfer
+GuLiM: Human-robot motion transfer (https://fsie-robotics.com/GuLiM-motion-transfer/)
+Teleoperated Robot in isolation ward for COVID-19 (https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/)
 
 
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/tmp_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
