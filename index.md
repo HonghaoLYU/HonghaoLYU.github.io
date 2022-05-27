@@ -18,6 +18,7 @@ My research interests include dual-arm robotic teleoperation, human–robot inte
 
 [Teleoperated Robot in isolation ward for COVID-19](https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/){:target="_blank"}
 
+<img src="https://honghaolyu.github.io/tmp_repo/assets/img/tele-auscultation.gif" width="400" height="240" alt="demo of teleop in hospital"/>
 
 
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/tmp_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
