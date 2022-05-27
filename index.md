@@ -11,9 +11,14 @@ and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corpora
 My research interests include dual-arm robotic teleoperation, human–robot intelligent interface, and safe interaction.
 
 ### Representative projects
-[GuLiM: Human-robot motion transfer](https://fsie-robotics.com/GuLiM-motion-transfer/)
+[GuLiM: Human-robot motion transfer](https://fsie-robotics.com/GuLiM-motion-transfer/){:target="_blank"}
 
-[Teleoperated Robot in isolation ward for COVID-19](https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/)
+<p align='center'>
+<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/teleop-dualarm.gif" width="400" height="240" alt="demo of dualarm teleop"/>
+<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/teleop-grasp.gif" width="400" height="240" alt="demo of dualarm grasp"/>
+</p>
+
+[Teleoperated Robot in isolation ward for COVID-19](https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/){:target="_blank"}
 
 
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/tmp_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
