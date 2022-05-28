@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 ---
 
 <h3>Contacts</h3>
