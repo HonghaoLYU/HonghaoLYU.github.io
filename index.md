@@ -7,12 +7,12 @@ and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corpora
 My research interests include dual-arm robotic teleoperation, human–robot intelligent interface, and safe interaction.
 
 ### Representative projects
-[GuLiM: Human-robot motion transfer](https://fsie-robotics.com/GuLiM-motion-transfer/){:target="_blank"}
+#### [GuLiM: Human-robot motion transfer](https://fsie-robotics.com/GuLiM-motion-transfer/){:target="_blank"}
 
 <img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/teleop-dualarm.gif" width="400" height="240" alt="demo of dualarm teleop"/>
 <!-- <img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/teleop-grasp.gif" width="400" height="240" alt="demo of dualarm grasp"/> -->
 
-[Teleoperated Robot in isolation ward for COVID-19](https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/){:target="_blank"}
+#### [Teleoperated Robot in isolation ward for COVID-19](https://wun.ac.uk/article/advancing-telerobotics-to-make-hospitals-safer-for-health-workers/){:target="_blank"}
 
 <img src="https://honghaolyu.github.io/tmp_repo/assets/img/tele-auscultation.gif" width="400" height="240" alt="demo of teleop in hospital"/>
 
