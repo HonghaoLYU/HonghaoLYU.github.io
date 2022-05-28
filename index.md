@@ -1,7 +1,3 @@
-## Welcome to My Pages
-
-## [Intro](https://fsie-robotics.com/tmp_repo/)&emsp; [Projects](https://fsie-robotics.com/tmp_repo/subpage/projects)&emsp; [Publications](https://fsie-robotics.com/tmp_repo/subpage/research) &emsp; [Posts](https://fsie-robotics.com/tmp_repo/subpage/posts)&emsp; [News](https://fsie-robotics.com/tmp_repo/subpage/research)
-
 ### Bio
 I am currently pursuing the Ph.D. degree in mechatronic engineering with the School of Mechanical Engineering, Zhejiang University, Hangzhou, China, 
 and also a joint Ph.D. with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, 
