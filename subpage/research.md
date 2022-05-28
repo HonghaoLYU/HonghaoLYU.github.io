@@ -3,48 +3,43 @@ layout: subpage
 author: Honghao
 ---
 
+### Journal Papers:
+
+[1] **Honghao Lv**, Depeng Kong, Gaoyang Pang, Baicun Wang, Zhangwei Yu, Zhibo Pang, and Geng Yang*, “GuLiM: A Hybrid Motion Mapping Technique for Teleoperation of Medical Assistive Robot in Combating the COVID-19 Pandemic,” IEEE Transactions on Medical Robotics and Bionics, vol. 4, no. 1, pp. 106−117, DOI: 10.1109/TMRB.2022.3146621, Jan. 2022. (Popular Article) [LINK](https://ieeexplore.ieee.org/document/9723639)
+
+[2] Honghao Lv, Geng Yang*, Huiying Zhou, Xiaoyan Huang, Huayong Yang, and Zhibo Pang, “Teleoperation of Collaborative Robot for Remote Dementia Care in Home Environments,” IEEE Journal of Translational Engineering in Health and Medicine, vol.8, Art. no. 1400510, DOI: 10.1109/JTEHM.2020.3002384, Jun. 2020. (Popular Article) [LINK](https://ieeexplore.ieee.org/document/9116811)
+
+[3]	Geng Yang*, **Honghao Lv**, Zhiyu Zhang, Liu Yang, Jia Deng, Siqi You, Juan Du, and Huayong Yang, “Keep Healthcare Workers Safe: Application of Teleoperated Robot in Isolation Ward for COVID-19 Prevention and Control,” Chinese Journal of Mechanical Engineering, vol. 33, no. 47, DOI: 10.1186/s10033-020-00464-0, Jun. 2020. (2020 Highly-Cited CJME Articles **TOP1**) [LINK](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0)
+
+[4] Feiyu Chen, **Honghao Lv**, Zhibo Pang, Junhui Zhang, Yonghong Hou, Ying Gu, Huayong Yang, and Geng Yang*, “WristCam: A Wearable Sensor for Hand Trajectory Gesture Recognition and Intelligent Human-Robot Interaction,” IEEE Sensors Journal, vol. 19, no. 19, pp. 8441–8451, DOI: 10.1109/JSEN, Oct. 2018.[LINK](https://ieeexplore.ieee.org/document/8509628)
+
+[5] Geng Yang, **Honghao Lv**, Feiyu Chen, Zhibo Pang, Jin Wang, Huayong Yang, and Junhui Zhang*, “A Novel Gesture Recognition System for Intelligent Interaction with a Nursing-Care Assistant Robot,” Applied Sciences, vol. 8, no. 12, Art. no. 2349, DOI: 10.3390/app8122349, Dec. 2018.[LINK](https://www.mdpi.com/2076-3417/8/12/2349)
+
+[6] Huiying Zhou, Geng Yang*, **Honghao Lv**, Xiaoyan Huang, Huayong Yang, and Zhibo Pang, “IoT-enabled Dual-arm Motion Capture and Mapping for Telerobotics in Home Care,” IEEE Journal of Biomedical and Health Informatics, vol. 24, no. 6, pp. 1541-1549, DOI: 10.1109/JBHI.2019.2953885, Jun. 2020. (Cover Article)[LINK](https://ieeexplore.ieee.org/document/8903317)
+
+[7] Wenzheng Heng†, Geng Yang*, Gaoyang Pang†, Zhiqiu Ye, **Honghao Lv**, Juan Du, Guodong Zhao, and Zhibo Pang, “Fluid-Driven Soft CoboSkin for Safer Human-Robot Collaboration: Fabrication and Adaptation,” Advanced Intelligent Systems. vol.3, no. 3, pp. 1−14, Art. no. 2000038. DOI: 10.1002/aisy.202000038, Mar. 2021.  (Cover Article)[LINK](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202000038)
+
+[8] Zakka Vincent Gbouna†, Gaoyang Pang†, Geng Yang*, Zeyang Hou, **Honghao Lv**, Zhangwei Yu, and Zhibo Pang, “User-Interactive Robot Skin with Large-Area Scalability for Safer and Natural Human-Robot Collaboration in Future Telehealthcare,” IEEE Journal of Biomedical and Health Informatics, vol.25, no. 12, pp. 4276-4288, DOI: 10.1109/JBHI.2021.3082563, May 2021. (Cover Article)[LINK](https://doi.org/10.1109/JBHI.2021.3082563)
+
+[9] Zhiqiu Ye†, Gaoyang Pang†, Kaichen Xu, Zeyang Hou, **Honghao Lv**, Yiren Shen, and Geng Yang*, “Soft Robot Skin with Conformal Adaptability for On-body Tactile Perception of Collaborative Robots,” IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 5127-5134, DOI: 10.1109/LRA.2022.3155225, Apr. 2022.[LINK](https://ieeexplore.ieee.org/document/9723639)
+
+### Conference Papers:
+[1]	Ruibin Zhang, **Honghao Lv**, Huiying Zhou, Yurui Zhang, Chenhao Liu, and Geng Yang*, “A Gait Recognition System for Interaction with a Homecare Mobile Robot”, in the 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020), Singapore, 16-20 October. 2020. [LINK](https://ieeexplore.ieee.org/document/9254412)
+
+[2]	Yuqi Wang, **Honghao Lv**, Huiying Zhou, Qi Cao, Zikang Li, and Geng Yang*, “A Sensor Glove Based on Inertial Measurement Unit for Robot Teleoperetion”, in the 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020), Singapore, 16-20 October. 2020. [LINK](https://ieeexplore.ieee.org/document/9254878)
+
+[3] Huiying zhou, **Honghao Lv**, Kang Yi, Zhibo Pang, Huayong Yang, Geng Yang*, “An IoT-Enabled Telerobotic-Assisted Healthcare System Based on Inertial Motion Capture” in the 2019 IEEE International Conference on Industrial Informatics (INDIN 2019), Helsinki, 22-25 Jul, 2019. [LINK](https://ieeexplore.ieee.org/document/8972195)
+
+[4] Shimin Pan, **Honghao Lv**, Hong Duan, Gaoyang Pang, Kang Yi, and Geng Yang*, “A Sensor Glove for the Interaction with a Nursing-Care Assistive Robot”, in the 2019 IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2019), Taipei, 6-9 May. 2019. [LINK](https://ieeexplore.ieee.org/document/8868447)
+
+[5] Huiying Zhou, Liu Yang, **Honghao Lv**, Kang Yi, Huayong Yang, and Geng Yang*, “Development of a Synchronized Human-Robot-Virtuality Interaction System using Cooperative Robot and Motion Capture Device”, in the IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2019), Hongkong,8-12 Jul. 2019. [LINK](https://ieeexplore.ieee.org/document/8868447)
+
+
 ### Patents:
-[1] Yang Geng, <strong>Lv Honghao</strong>, Zhang zhiyu, Yang Huayong，Zhejiang University；A Software for Acquisition and Analysis of Dual-arm Robot’s Movement Status: Registration No.2020SR0061078.
+[1] Yang Geng, **Lv Honghao**, Zhang zhiyu, Yang Huayong，Zhejiang University；A Software for Acquisition and Analysis of Dual-arm Robot’s Movement Status: Registration No.2020SR0061078.
 
-[2] Yang Geng, <strong>Lv Honghao</strong>, Pang Gaoyang, Yang Huayong，Zhejiang University；A Dirigible Dual-arm Omnidirectional Mobile Nursing-care Robot: CN201810534638.1[P]. 2018-10-26. (Invention publication)
+[2] Yang Geng, **Lv Honghao**, Pang Gaoyang, Yang Huayong，Zhejiang University；A Dirigible Dual-arm Omnidirectional Mobile Nursing-care Robot: CN201810534638.1[P]. 2018-10-26. (Invention publication)
 
-[3] <strong>Lv Honghao</strong>, Hao Jingbin, Jia Kun，China University of Mining and Technology；A Smart Home System Based on Labview and Tcp/Ip Network Protocol: CN201721694857.3[P]. 2017-12-07. (Utility model)
+[3] **Lv Honghao**, Hao Jingbin, Jia Kun，China University of Mining and Technology；A Smart Home System Based on Labview and Tcp/Ip Network Protocol: CN201721694857.3[P]. 2017-12-07. (Utility model)
 
-[4] Ding Haigang, <strong>Lv Honghao</strong>, Cheng Gang, Zhao Jiyun, Cao Chao，China University of Mining and Technology；A Speed Measuring Device for Large Diameter Rotating Shaft without Protruding End.: CN201711391943.1[P]. 2017-12-21. (Invention publication)
-
-<h3>Journal Papers:</h3>
-<p>
-[1] <strong>Lv Honghao</strong>, Geng Yang*, Huiying Zhou, Xiaoyan Huang, Huayong Yang, Zhibo Pang, “IoT-enabled Dual-arm Motion Capture and Mapping for Telerobotics in Home Care,” IEEE Journal of Translational Engineering in Health and Medicine (IEEE JTEHM), IF: 2.075, Jun. 2020. (Accepted)
-</p>
-<p>
-[2]	Wenzheng Heng, Geng Yang, Gaoyang Pang, Zhiqiu Ye, <strong>Honghao Lv</strong>, Juan Du, Guodong Zhao, and Zhibo Pang, “Fluid-Driven Soft CoboSkin for Safer Human-Robot Collaboration: Fabrication and Adaptation,” Advanced Intelligent Systems, Jun. 2020. DOI: 10.1002/aisy.202000038. (Early View)
-</p>
-<p>
-[3] Geng Yang*, <strong>Lv Honghao</strong>, Zhiyu Zhang, Liu Yang, Siqi You, Juan Du, Huayong Yang, , “Keep Healthcare Workers Safe: Application of Teleoperated Robot in Isolation Ward for COVID-19 Prevention and Control” Chinese Journal of Mechanical Engineering (CJME), IF: 1.413, vol. 33, no. 47, Jun. 2020. DOI: 10.1186/s10033-020-00464-0
-</p>
-<p>
-[4] Huiying Zhou, <strong>Lv Honghao</strong>, Zhibo Pang, Xiaoyan Huang, Huayong Yang, Geng Yang*, “IoT-enabled Dual-arm Motion Capture and Mapping for Telerobotics in Homecare” IEEE Journal of Biomedical and Health Informatics (IEEE JBHI), vol. 24, no. 6, pp. 1541-1549, Jun. 2020. DOI: 10.1109/JBHI.2019.2953885
-</p>
-<p>
-[5] Yang Geng, <strong>Lv Honghao</strong>, Chen Feiyu, Pang Zhibo, Wang Jin, Yang Huayong, Zhang Junhui*, “A Novel Gesture Recognition System for Intelligent Interaction with a Nursing-Care Assistant Robot” Applied Sciences-Basel, IF:2.217, vol. 8, (12), art. no. 2349, Dec. 2018. DOI: 10.3390/app8122349.
-</p>
-<p>
-[6] Chen Feiyu, <strong>Lv Honghao</strong>, Pang Zhibo, Zhang Junhui, Hou Yonghong, Gu Ying, Yang Huayong and G. Yang*, “WristCam: A Wearable Sensor for Hand Trajectory Gesture Recognition and Intelligent Human-Robot Interaction” IEEE Sensors Journal, IF: 3.076, pp. 1-1, Oct. 2018. DOI: 10.1109/JSEN.
-</p>
-
-<h3>Conference Papers:</h3>
-<p>
-[1]	Ruibin Zhang, <strong>Honghao Lv</strong>, Huiying Zhou, Yurui Zhang, Chenhao Liu, and Geng Yang*, “A Gait Recognition System for Interaction with a Homecare Mobile Robot”, in the 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020), Singapore, 16-20 October. 2020. (Accepted)
-</p>
-<p>
-[2]	Yuqi Wang, <strong>Honghao Lv</strong>, Huiying Zhou, Qi Cao, Zikang Li, and Geng Yang*, “A Sensor Glove Based on Inertial Measurement Unit for Robot Teleoperetion”, in the 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020), Singapore, 16-20 October. 2020. (Accepted)
-</p>
-<p>
-[3] Huiying zhou, <strong>Honghao Lv</strong>, Kang Yi, Zhibo Pang, Huayong Yang, Geng Yang*, “An IoT-Enabled Telerobotic-Assisted Healthcare System Based on Inertial Motion Capture” in the 2019 IEEE International Conference on Industrial Informatics (INDIN 2019), Helsinki, 22-25 Jul, 2019.
-</p>
-<p>
-[4] Pan Shimin, <strong>Lv Honghao</strong>, Duan Hong, Pang Gaoyang, Yi Kang, and Yang Geng*, “A Sensor Glove for the Interaction with a Nursing-Care Assistive Robot”, in the 2019 IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2019), Taipei, 6-9 May. 2019.
-</p>
-<p>
-[5] Huiying Zhou, Liu Yang, <strong>Honghao Lv</strong>, Kang Yi, Huayong Yang, and Geng Yang*, “Development of a Synchronized Human-Robot-Virtuality Interaction System using Cooperative Robot and Motion Capture Device”, in the IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2019), Hongkong,8-12 Jul. 2019.
-</p>
+[4] Ding Haigang, **Lv Honghao**, Cheng Gang, Zhao Jiyun, Cao Chao，China University of Mining and Technology；A Speed Measuring Device for Large Diameter Rotating Shaft without Protruding End.: CN201711391943.1[P]. 2017-12-21. (Invention publication)
