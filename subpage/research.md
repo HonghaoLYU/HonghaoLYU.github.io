@@ -5,8 +5,11 @@ author: Honghao
 
 ### Patents:
 [1] Yang Geng, <strong>Lv Honghao</strong>, Zhang zhiyu, Yang Huayong，Zhejiang University；A Software for Acquisition and Analysis of Dual-arm Robot’s Movement Status: Registration No.2020SR0061078.
+
 [2] Yang Geng, <strong>Lv Honghao</strong>, Pang Gaoyang, Yang Huayong，Zhejiang University；A Dirigible Dual-arm Omnidirectional Mobile Nursing-care Robot: CN201810534638.1[P]. 2018-10-26. (Invention publication)
+
 [3] <strong>Lv Honghao</strong>, Hao Jingbin, Jia Kun，China University of Mining and Technology；A Smart Home System Based on Labview and Tcp/Ip Network Protocol: CN201721694857.3[P]. 2017-12-07. (Utility model)
+
 [4] Ding Haigang, <strong>Lv Honghao</strong>, Cheng Gang, Zhao Jiyun, Cao Chao，China University of Mining and Technology；A Speed Measuring Device for Large Diameter Rotating Shaft without Protruding End.: CN201711391943.1[P]. 2017-12-21. (Invention publication)
 
 <h3>Journal Papers:</h3>

@@ -1,4 +1,4 @@
-### Bio
+### Bio:
 I am currently pursuing the Ph.D. degree in mechatronic engineering with the School of Mechanical Engineering, Zhejiang University, Hangzhou, China, 
 and also a joint Ph.D. with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, 
 under the financial support from China Scholarship Council.
@@ -6,7 +6,7 @@ I developed dual-arm robotic teleoperation systems based on the motion capture t
 and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corporate Research Sweden.
 My research interests include dual-arm robotic teleoperation, human–robot intelligent interface, and safe interaction.
 
-### Representative projects
+### Representative projects:
 #### [GuLiM: Human-robot motion transfer](https://fsie-robotics.com/GuLiM-motion-transfer/){:target="_blank"}
 
 <img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/teleop-dualarm.gif" width="400" height="240" alt="demo of dualarm teleop"/>
