@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: subpage
 ---
 
 <h3>Patents:</h3>
