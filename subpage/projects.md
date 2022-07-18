@@ -8,7 +8,7 @@ date: 2022-05-29 00:50:30
 
 This project conducts the teleoperation of the dual-arm robot YuMi base the multi-node inertial sensing motion capture technology, which can mapping the diagnosis and treatment operation behavior of the doctors and caregivers. This project aims to minimize the need for medical staff into the isolation ward, and reducing the cross-infection between the COVID-19 patients and the doctors or the caregivers. At present, the hardware construction and hardware debugging of the assembly platform have been completed, and the preliminary clinical verification has been carried out. In view of the related reasons, the related videos and related codes will be released at the right time.
 
-<img src="/assets/images/2019nCOV_certification.jpg" width="500" height="300" alt="浙大一院展示验证"/>
+<img src="/assets/img/2019nCOV_certification.jpg" width="500" height="300" alt="浙大一院展示验证"/>
 
 ### Human-robot Collaborative Assembly Based on Target Recognition Using Kinect-(ZJU 2019.10-now)
 
@@ -55,5 +55,5 @@ This project is my 2nd SRTP project in CUMT. In this work, a smart home system i
 
 This project is my first SRTP project in CUMT. In this work, a prototype was built by the self-designed mechanical structure and data processing program based on LabVIEW, which has been tested successfully. I am in charge of designing the hardware circuit and programming the whole LabVIEW codes. Compared with most of the current brake friction test bench, it has the outstanding advantages and application significance, such as convenient installation, strong portability, greatly reduced cost, small and portable volume, strong field application ability, easy data acquisition. 
 
-<img src="/assets/images/cumt2016srtp.jpg" width="500" alt="2016校级大创"/>
+<img src="/assets/img/cumt2016srtp.jpg" width="500" alt="2016校级大创"/>
 
