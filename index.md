@@ -1,8 +1,8 @@
 ### Bio:
-I am currently pursuing the Ph.D. degree in mechatronic engineering with the School of Mechanical Engineering, Zhejiang University, Hangzhou, China, 
+I am currently a Ph.D. student, majoring in mechatronic engineering with the School of Mechanical Engineering, Zhejiang University, Hangzhou, China, 
 and also a joint Ph.D. with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, 
 under the financial support from China Scholarship Council.
-I developed dual-arm robotic teleoperation systems based on the motion capture techniques. And I am also working on mobile robotics, multi-robot coordination, 
+I developed the dual-arm robotic teleoperation systems based on the motion capture techniques. And I am also working on mobile robotics, multi-robot coordination, 
 and DDS-based functional safety, as an Intern Ph.D. student with the ABB Corporate Research Center Sweden.
 My research interests include dual-arm robotic teleoperation, human–robot intelligent interface, and safe interaction.
 
