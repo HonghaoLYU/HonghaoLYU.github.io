@@ -10,7 +10,7 @@ date: 2022-07-18 23:25:13
 
 [2] **Honghao Lv**, Geng Yang*, Huiying Zhou, Xiaoyan Huang, Huayong Yang, and Zhibo Pang, “Teleoperation of Collaborative Robot for Remote Dementia Care in Home Environments,” IEEE Journal of Translational Engineering in Health and Medicine, vol.8, Art. no. 1400510, DOI: 10.1109/JTEHM.2020.3002384, Jun. 2020. (**Popular Article**) [LINK](https://ieeexplore.ieee.org/document/9116811)
 
-[3]	Geng Yang*, **Honghao Lv**, Zhiyu Zhang, Liu Yang, Jia Deng, Siqi You, Juan Du, and Huayong Yang, “Keep Healthcare Workers Safe: Application of Teleoperated Robot in Isolation Ward for COVID-19 Prevention and Control,” Chinese Journal of Mechanical Engineering, vol. 33, no. 47, DOI: 10.1186/s10033-020-00464-0, Jun. 2020. (**2020 Highly-Cited CJME Articles TOP1**) [LINK](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0)
+[3]	Geng Yang*, **Honghao Lv**, Zhiyu Zhang, Liu Yang, Jia Deng, Siqi You, Juan Du, and Huayong Yang, “Keep Healthcare Workers Safe: Application of Teleoperated Robot in Isolation Ward for COVID-19 Prevention and Control,” Chinese Journal of Mechanical Engineering, vol. 33, no. 47, DOI: 10.1186/s10033-020-00464-0, Jun. 2020. (**2020 Highly-Cited CJME Articles TOP1**) (**第七届中国科协优秀科技论文**)[LINK](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0)
 
 [4] Feiyu Chen, **Honghao Lv**, Zhibo Pang, Junhui Zhang, Yonghong Hou, Ying Gu, Huayong Yang, and Geng Yang*, “WristCam: A Wearable Sensor for Hand Trajectory Gesture Recognition and Intelligent Human-Robot Interaction,” IEEE Sensors Journal, vol. 19, no. 19, pp. 8441–8451, DOI: 10.1109/JSEN, Oct. 2018. [LINK](https://ieeexplore.ieee.org/document/8509628)
 

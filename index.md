@@ -19,6 +19,10 @@ My research interests include dual-arm robotic teleoperation, human–robot inte
 
 ### News:
 
+Our publication, about the teleoperated robot during the pandemic [Ref3](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0), has been selected as the Outstanding Papers of China Association for Science and Technology (第七届中国科协优秀科技论文).
+
+announced at [LINK](https://www.cast.org.cn/art/2022/9/22/art_458_198070.html].
+
 <!-- You can use the [editor on GitHub](https://github.com/HonghaoLYU/tmp_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
