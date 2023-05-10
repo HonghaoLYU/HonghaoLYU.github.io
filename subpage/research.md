@@ -22,13 +22,15 @@ date: 2022-07-18 23:25:13
 
 [8] Huiying Zhou, Geng Yang*, **Honghao Lv**, Xiaoyan Huang, Huayong Yang, and Zhibo Pang, “IoT-enabled Dual-arm Motion Capture and Mapping for Telerobotics in Home Care,” IEEE Journal of Biomedical and Health Informatics, vol. 24, no. 6, pp. 1541-1549, DOI: 10.1109/JBHI.2019.2953885, Jun. 2020. (Cover Article) [LINK](https://ieeexplore.ieee.org/document/8903317)
 
-[9] Depeng Kong, Geng Yang*, Gaoyang Pang, Zhiqiu Ye, **Honghao Lv**, Zhangwei Yu, Fei Wang, Xi Vincent Wang, Kaichen Xu, and Huayong Yang, “Bioinspired Co-Design of Tactile Sensor and Deep Learning Algorithm for Human-Robot Interaction,” Advanced Intelligent Systems, vol. 4, no. 6, DOI: 10.1002/aisy.202200050, Jun. 2022. (Back Cover Article) [LINK](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200050) (Responsible for building verification robot platform)
+[9] Zhiqiu Ye, Gaoyang Pang, Yihao Liang, **Honghao Lv**, Kaichen Xu, Geng Yang*, “Highly stretchable and sensitive strain sensor based on porous materials and rhombic-mesh structures for robot teleoperation,” Advanced Sensor Research, DOI: 10.1002/adsr.202300044 (Accepted)
+
+[10] Depeng Kong, Geng Yang*, Gaoyang Pang, Zhiqiu Ye, **Honghao Lv**, Zhangwei Yu, Fei Wang, Xi Vincent Wang, Kaichen Xu, and Huayong Yang, “Bioinspired Co-Design of Tactile Sensor and Deep Learning Algorithm for Human-Robot Interaction,” Advanced Intelligent Systems, vol. 4, no. 6, DOI: 10.1002/aisy.202200050, Jun. 2022. (Back Cover Article) [LINK](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200050) (Responsible for building verification robot platform)
  
-[10] Zakka Vincent Gbouna†, Gaoyang Pang†, Geng Yang*, Zeyang Hou, **Honghao Lv**, Zhangwei Yu, and Zhibo Pang, “User-Interactive Robot Skin with Large-Area Scalability for Safer and Natural Human-Robot Collaboration in Future Telehealthcare,” IEEE Journal of Biomedical and Health Informatics, vol.25, no. 12, pp. 4276-4288, DOI: 10.1109/JBHI.2021.3082563, May 2021. (Cover Article) [LINK](https://doi.org/10.1109/JBHI.2021.3082563) (Responsible for building verification robot platform)
+[11] Zakka Vincent Gbouna†, Gaoyang Pang†, Geng Yang*, Zeyang Hou, **Honghao Lv**, Zhangwei Yu, and Zhibo Pang, “User-Interactive Robot Skin with Large-Area Scalability for Safer and Natural Human-Robot Collaboration in Future Telehealthcare,” IEEE Journal of Biomedical and Health Informatics, vol.25, no. 12, pp. 4276-4288, DOI: 10.1109/JBHI.2021.3082563, May 2021. (Cover Article) [LINK](https://doi.org/10.1109/JBHI.2021.3082563) (Responsible for building verification robot platform)
 
-[11] Wenzheng Heng†, Geng Yang*, Gaoyang Pang†, Zhiqiu Ye, **Honghao Lv**, Juan Du, Guodong Zhao, and Zhibo Pang, “Fluid-Driven Soft CoboSkin for Safer Human-Robot Collaboration: Fabrication and Adaptation,” Advanced Intelligent Systems. vol.3, no. 3, pp. 1−14, Art. no. 2000038. DOI: 10.1002/aisy.202000038, Mar. 2021.  (Cover Article) [LINK](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202000038) (Responsible for building verification robot platform)
+[12] Wenzheng Heng†, Geng Yang*, Gaoyang Pang†, Zhiqiu Ye, **Honghao Lv**, Juan Du, Guodong Zhao, and Zhibo Pang, “Fluid-Driven Soft CoboSkin for Safer Human-Robot Collaboration: Fabrication and Adaptation,” Advanced Intelligent Systems. vol.3, no. 3, pp. 1−14, Art. no. 2000038. DOI: 10.1002/aisy.202000038, Mar. 2021.  (Cover Article) [LINK](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202000038) (Responsible for building verification robot platform)
 
-[12] Zhiqiu Ye†, Gaoyang Pang†, Kaichen Xu, Zeyang Hou, **Honghao Lv**, Yiren Shen, and Geng Yang*, “Soft Robot Skin with Conformal Adaptability for On-body Tactile Perception of Collaborative Robots,” IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 5127-5134, DOI: 10.1109/LRA.2022.3155225, Apr. 2022. [LINK](https://ieeexplore.ieee.org/document/9723639) (Responsible for building verification robot platform)
+[13] Zhiqiu Ye†, Gaoyang Pang†, Kaichen Xu, Zeyang Hou, **Honghao Lv**, Yiren Shen, and Geng Yang*, “Soft Robot Skin with Conformal Adaptability for On-body Tactile Perception of Collaborative Robots,” IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 5127-5134, DOI: 10.1109/LRA.2022.3155225, Apr. 2022. [LINK](https://ieeexplore.ieee.org/document/9723639) (Responsible for building verification robot platform)
 
 ### Conference Papers:
 
@@ -46,14 +48,18 @@ date: 2022-07-18 23:25:13
 
 
 ### Patents:
-[1] Yang Geng, **Lv Honghao**, Zhang zhiyu, Yang Huayong，Zhejiang University；A Software for Acquisition and Analysis of Dual-arm Robot’s Movement Status: Registration No.2020SR0061078.
+[1] Yang Geng, **Lv Honghao**, Wang Ruohan, Yang HUayong，Zhejiang University; A Movable Multi-DoFs Dual Arm Collaborative Robot: CN115958578A (Invention disclosure, substantive examination)
 
-[2] Yang Geng, **Lv Honghao**, Pang Gaoyang, Yang Huayong，Zhejiang University；A Dirigible Dual-arm Omnidirectional Mobile Nursing-care Robot: CN201810534638.1[P]. 2018-10-26. (Invention publication)
+[2]	Yang Geng Wang Ruohan, Zhang Nan, **Lv Honghao**, Wu Haiteng, Yang Huayong，Zhejiang University; Dual Arm Collaborative Robot based on Six DoFs Manipulator: CN115366071A (Invention disclosure, substantive examination)
 
-[3] Yang Geng, **Lv Honghao**, Wang Ruohan, Yang Huayong, Zhejiang University; A Human Motion Capture and Guidance Data Generation Software for Dual-arm robot teleoperation: Registration No.2022SR0816120. (1st author is my supervisor)
+[3] Yang Geng, **Lv Honghao**, Zhang zhiyu, Yang Huayong，Zhejiang University; A Software for Acquisition and Analysis of Dual-arm Robot’s Movement Status: Registration No.2020SR0061078.
 
-[4] Yang Geng, Li Le, **Lv Honghao**, Yang Huayong, Zhejiang University; A Software for Controlling and Monitoring the Robot Torso Motion Status: Registration No.2022SR0816145.
+[4] Yang Geng, **Lv Honghao**, Pang Gaoyang, Yang Huayong，Zhejiang University; A Dirigible Dual-arm Omnidirectional Mobile Nursing-care Robot: CN201810534638.1[P]. 2018-10-26. (Invention publication)
 
-[5] **Lv Honghao**, Hao Jingbin, Jia Kun，China University of Mining and Technology；A Smart Home System Based on Labview and Tcp/Ip Network Protocol: CN201721694857.3[P]. 2017-12-07. (Utility model)
+[5] Yang Geng, **Lv Honghao**, Wang Ruohan, Yang Huayong, Zhejiang University; A Human Motion Capture and Guidance Data Generation Software for Dual-arm robot teleoperation: Registration No.2022SR0816120. (1st author is my supervisor)
 
-[6] Ding Haigang, **Lv Honghao**, Cheng Gang, Zhao Jiyun, Cao Chao，China University of Mining and Technology；A Speed Measuring Device for Large Diameter Rotating Shaft without Protruding End.: CN201711391943.1[P]. 2017-12-21. (Invention publication)
+[6] Yang Geng, Li Le, **Lv Honghao**, Yang Huayong, Zhejiang University; A Software for Controlling and Monitoring the Robot Torso Motion Status: Registration No.2022SR0816145.
+
+[7] **Lv Honghao**, Hao Jingbin, Jia Kun，China University of Mining and Technology; A Smart Home System Based on Labview and Tcp/Ip Network Protocol: CN201721694857.3[P]. 2017-12-07. (Utility model)
+
+[8] Ding Haigang, **Lv Honghao**, Cheng Gang, Zhao Jiyun, Cao Chao，China University of Mining and Technology；A Speed Measuring Device for Large Diameter Rotating Shaft without Protruding End.: CN201711391943.1[P]. 2017-12-21. (Invention publication)

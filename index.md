@@ -19,6 +19,9 @@ My research interests include dual-arm robotic teleoperation, human–robot inte
 
 ### News:
 
+**2022-05-04** I'm excited to announce that I have been selected to represent the IEEE R10 region (Asia and Pacific) as an IEEE Industrial Electronics Society (IES) Ambassador for 2023. Announced at [LINK](https://www.linkedin.com/posts/honghao-lyu-88aaab18b_ieee-ies-ambassadors-activity-7059825420715655168-oCj3?utm_source=share&utm_medium=member_desktop).
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7059825419826466816" height="383" width="504" frameborder="0" allowfullscreen="" title="已嵌入的动态"></iframe>
+
 **2022-09-22** Our publication, about the teleoperated robot during the pandemic [Ref](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0), has been selected as the Outstanding Papers of China Association for Science and Technology (第七届中国科协优秀科技论文). Announced at [LINK](https://www.cast.org.cn/art/2022/9/22/art_458_198070.html).
 
 **2022-09-20** Our work on Hardware-in-the-Loop Simulation for wireless-controlled robots [Ref](https://youtu.be/U3UIYb0MQRE?list=PLO5umi31c_82caJ3360k_UzNb8IdInEFs) was selected to the final list of IES-SYPA (Students & Young Professionals Assitance), at 48th Annual Conference of the IEEE Industrial Electronics Society (IECON 2022). Announced at [LINK](https://iecon2022.org/3mcontestresults/).
