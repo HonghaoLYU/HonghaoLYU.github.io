@@ -25,7 +25,7 @@ My research interests include dual-arm robotic teleoperation, human–robot inte
 **2022-09-22** Our publication, about the teleoperated robot during the pandemic [Ref](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0), has been selected as the Outstanding Papers of China Association for Science and Technology (第七届中国科协优秀科技论文). Announced at [LINK](https://www.cast.org.cn/art/2022/9/22/art_458_198070.html).
 
 **2022-09-20** Our work on Hardware-in-the-Loop Simulation for wireless-controlled robots [Ref](https://youtu.be/U3UIYb0MQRE?list=PLO5umi31c_82caJ3360k_UzNb8IdInEFs) was selected to the final list of IES-SYPA (Students & Young Professionals Assitance), at 48th Annual Conference of the IEEE Industrial Electronics Society (IECON 2022). Announced at [LINK](https://iecon2022.org/3mcontestresults/).
-<iframe width="600" height="330" src="https://www.youtube.com/embed/U3UIYb0MQRE?list=PLO5umi31c_82caJ3360k_UzNb8IdInEFs" title="Hardware-in-the-Loop Simulation for Evaluating Communication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="280" src="https://www.youtube.com/embed/U3UIYb0MQRE?list=PLO5umi31c_82caJ3360k_UzNb8IdInEFs" title="Hardware-in-the-Loop Simulation for Evaluating Communication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
