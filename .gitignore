@@ -1,0 +1,8 @@
+
+
+# The full CV is maintained in a separate private repository.
+/cv/
+/files/Honghao*CV*.pdf
+
+# Local agent settings are machine-specific and must not be published.
+/.claude/settings.local.json
